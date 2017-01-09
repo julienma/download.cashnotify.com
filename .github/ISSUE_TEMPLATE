@@ -1,0 +1,40 @@
+<!--
+  Hi there! Thank you for discovering and submitting an issue. 
+
+  Before you submit this; let's make sure of a few things. 
+  Please make sure the following boxes are ticked if they are correct.
+  If not, please try and fulfil these first.
+-->
+
+- [ ] I am on the [latest](https://github.com/julienma/download.cashnotify.com/releases/latest) CashNotify.app version
+- [ ] I have searched the [issues](https://github.com/julienma/download.cashnotify.com/issues) of this repo and believe that this is not a duplicate
+
+<!-- 
+  Once those are done, if you're able to fill in the following list with your information,
+  it'd be very helpful to whoever handles the issue.
+-->
+
+- **OS version and name**: <!-- Replace with version + name -->
+- **CashNotify.app version**: <!-- Replace with version. Find it in app > Cog menu > About -->
+
+### Description
+
+<!-- Now feel free to write your issue, but please be descriptive! Thanks again 🙌 ❤️ -->
+
+## If you're reporting a bug
+
+### Steps to Reproduce
+
+1. <!-- First Step -->
+2. <!-- Second Step -->
+3. <!-- and so on... -->
+
+**Expected behavior:** <!-- What you expect to happen -->
+
+**Actual behavior:** <!-- What actually happens -->
+
+**Reproduces how often:** <!-- What percentage of the time does it reproduce? -->
+
+### Additional Information
+
+<!-- Any additional information, configuration or data that might be necessary to reproduce the issue. -->
